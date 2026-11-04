@@ -2,7 +2,7 @@
 
 ## Data Engineering | Analytics Engineering | Python | SQL | Data Quality
 
-I am transitioning from analytical chemistry into data engineering and analytics engineering. I bring a scientific background in analytical data, quality-focused investigation, and reproducible analysis.
+I am transitioning from analytical chemistry into data engineering and analytics engineering. I bring more than 14 years of pharmaceutical chemistry domain knowledge, including analytical data interpretation, quality-focused investigation, documentation, and evidence-based decision-making in a technical and regulated environment. This experience helps me understand the business context behind data, recognise data-quality risks, and build workflows that produce reliable results.
 
 My current work focuses on Python, SQL, databases, data pipelines, Docker, Apache Airflow, Git/GitHub, and practical data-quality workflows. I am also developing my skills in dbt, AWS, Databricks, PySpark, and modern analytics platforms.
 
