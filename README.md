@@ -17,10 +17,10 @@ I am open to junior, graduate, and associate opportunities in:
 
 ## Featured projects
 
-- [Pharma Data Pipeline](https://github.com/xrasana-lang/pharma-data-pipeline) — profiling, cleaning, validation, data-quality decisions, and reproducible pipeline scripts for pharmaceutical inventory and waste data.
-- [Nairobi Air Quality Time-Series Modelling](https://github.com/xrasana-lang/Nairobi_air_quality_time_series_modeling) — MongoDB ingestion and wrangling, time-series feature engineering, chronological validation, and AR/ARMA modelling.
-- [Nepal Earthquake Damage Classification](https://github.com/xrasana-lang/Predicting_Earthquake_Damage_Classification_Models) — DuckDB/SQL joins, reusable data preparation, classification models, evaluation, and responsible demographic analysis.
-- [Buenos Aires Price Prediction](https://github.com/xrasana-lang/Buenos_Aires_price_prediction_using_Linear_Regression) — an end-to-end supervised-learning workflow with cleaning, feature engineering, regularisation, model comparison, and documented limitations.
+- **Data Engineering and Data Quality:** [Pharma Data Pipeline](https://github.com/xrasana-lang/pharma-data-pipeline) — profiling, cleaning, validation, data-quality decisions, and reproducible pipeline scripts for pharmaceutical inventory and waste data.
+- **Database Pipeline and Time-Series Modelling:** [Nairobi Air Quality Time-Series Modelling](https://github.com/xrasana-lang/Nairobi_air_quality_time_series_modeling) — MongoDB ingestion and wrangling, time-series feature engineering, chronological validation, and AR/ARMA modelling.
+- **SQL, Relational Data, and Classification:** [Nepal Earthquake Damage Classification](https://github.com/xrasana-lang/Predicting_Earthquake_Damage_Classification_Models) — DuckDB/SQL joins, reusable data preparation, classification models, evaluation, and responsible demographic analysis.
+- **Supervised Learning and Model Evaluation:** [Buenos Aires Price Prediction](https://github.com/xrasana-lang/Buenos_Aires_price_prediction_using_Linear_Regression) — an end-to-end supervised-learning workflow with cleaning, feature engineering, regularisation, model comparison, and documented limitations.
 
 ## Certifications
 
