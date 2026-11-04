@@ -22,6 +22,13 @@ I am open to junior, graduate, and associate opportunities in:
 - **SQL, Relational Data, and Classification:** [Nepal Earthquake Damage Classification](https://github.com/xrasana-lang/Predicting_Earthquake_Damage_Classification_Models) — DuckDB/SQL joins, reusable data preparation, classification models, evaluation, and responsible demographic analysis.
 - **Supervised Learning and Model Evaluation:** [Buenos Aires Price Prediction](https://github.com/xrasana-lang/Buenos_Aires_price_prediction_using_Linear_Regression) — an end-to-end supervised-learning workflow with cleaning, feature engineering, regularisation, model comparison, and documented limitations.
 
+## Technical skills
+
+- **Languages:** Python, SQL
+- **Data engineering:** Data pipelines, ETL, data quality, databases, Docker, Apache Airflow
+- **Analytics:** pandas, scikit-learn, time-series modelling, statistical analysis
+- **Currently developing:** dbt, AWS, PySpark, Databricks
+
 ## Certifications
 
 [![Data Science Application — WorldQuant University](https://images.credly.com/images/5c9ac371-96a8-46a8-a48f-aaa4230cd360/linkedin_thumb_blob)](https://www.credly.com/badges/ffdeb191-2dde-4420-a5d3-ac11a2a27c97/public_url)
