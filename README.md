@@ -2,7 +2,7 @@
 
 ## Data Engineering | Analytics Engineering | Python | SQL | Data Quality
 
-I am transitioning from analytical chemistry into data engineering and analytics engineering. I bring more than 10 years of Excel experience and a scientific background in analytical data, quality-focused investigation, and reproducible analysis.
+I am transitioning from analytical chemistry into data engineering and analytics engineering. I bring a scientific background in analytical data, quality-focused investigation, and reproducible analysis.
 
 My current work focuses on Python, SQL, databases, data pipelines, Docker, Apache Airflow, Git/GitHub, and practical data-quality workflows. I am also developing my skills in dbt, AWS, Databricks, PySpark, and modern analytics platforms.
 
