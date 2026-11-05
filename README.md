@@ -1,4 +1,4 @@
-# Hi, I'm xrasana-lang
+# Hi, I'm Xolani Rasana
 
 ## Data Engineering | Analytics Engineering | Python | SQL | Data Quality
 
