@@ -2,43 +2,35 @@
 
 ## Data Engineering | Analytics Engineering | Python | SQL | Data Quality
 
-I am transitioning from analytical chemistry into data engineering and analytics engineering. I bring more than 14 years of pharmaceutical chemistry domain knowledge, including analytical data interpretation, quality-focused investigation, documentation, and evidence-based decision-making in a technical and regulated environment. This experience helps me understand the business context behind data, recognise data-quality risks, and build workflows that produce reliable results.
+I’m transitioning from analytical chemistry into data engineering and analytics engineering, bringing 14+ years of experience in pharmaceutical data interpretation, quality-focused investigation, documentation, and work in regulated environments.
 
-My current work focuses on Python, SQL, databases, data pipelines, Docker, Apache Airflow, Git/GitHub, and practical data-quality workflows. I am also developing my skills in dbt, AWS, Databricks, PySpark, and modern analytics platforms.
+I build practical, reproducible workflows for **data ingestion, cleaning, validation, transformation, databases, and analytics**. I’m currently developing my skills in **Docker, Airflow, dbt, AWS, PySpark, and Databricks**.
 
-I am open to junior, graduate, and associate opportunities in:
+I’m open to junior, graduate, and associate opportunities in:
 
-- Data Engineering
+- Data Engineering and ETL
 - Analytics Engineering
-- ETL and data pipelines
-- Data quality
-- SQL development
-- BI and data analysis
+- Data Quality
+- SQL and BI
+- Data Analysis
 
 ## Featured projects
 
-- **Data Engineering and Data Quality:** [Pharma Data Pipeline](https://github.com/xrasana-lang/pharma-data-pipeline) — profiling, cleaning, validation, data-quality decisions, and reproducible pipeline scripts for pharmaceutical inventory and waste data.
-- **Database Pipeline and Time-Series Modelling:** [Nairobi Air Quality Time-Series Modelling](https://github.com/xrasana-lang/Nairobi_air_quality_time_series_modeling) — MongoDB ingestion and wrangling, time-series feature engineering, chronological validation, and AR/ARMA modelling.
-- **SQL, Relational Data, and Classification:** [Nepal Earthquake Damage Classification](https://github.com/xrasana-lang/Predicting_Earthquake_Damage_Classification_Models) — DuckDB/SQL joins, reusable data preparation, classification models, evaluation, and responsible demographic analysis.
-- **Supervised Learning and Model Evaluation:** [Buenos Aires Price Prediction](https://github.com/xrasana-lang/Buenos_Aires_price_prediction_using_Linear_Regression) — an end-to-end supervised-learning workflow with cleaning, feature engineering, regularisation, model comparison, and documented limitations.
+- **[Pharma Data Pipeline](https://github.com/xrasana-lang/pharma-data-pipeline)** — A pharmaceutical inventory and waste data-quality pipeline covering profiling, cleaning, validation, and traceable data-quality decisions.
+- **[Nairobi Air Quality Time-Series Modelling](https://github.com/xrasana-lang/Nairobi_air_quality_time_series_modeling)** — MongoDB ingestion, reusable wrangling, time-series feature engineering, chronological validation, and AR/ARMA modelling.
+- **[Nepal Earthquake Damage Classification](https://github.com/xrasana-lang/Predicting_Earthquake_Damage_Classification_Models)** — DuckDB and SQL joins, reusable preparation, classification models, evaluation, and responsible demographic analysis.
+- **[Buenos Aires Price Prediction](https://github.com/xrasana-lang/Buenos_Aires_price_prediction_using_Linear_Regression)** — An end-to-end modelling workflow with cleaning, feature engineering, regularisation, model comparison, and documented limitations.
 
 ## Technical skills
 
-- **Languages:** Python, SQL
-- **Data engineering:** Data pipelines, ETL, data quality, databases, Docker, Apache Airflow
-- **Analytics:** pandas, scikit-learn, time-series modelling, statistical analysis
-- **Currently developing:** dbt, AWS, PySpark, Databricks
+**Languages:** Python, SQL  
+**Data engineering:** ETL, data pipelines, data quality, databases, Docker, Apache Airflow  
+**Analytics:** pandas, scikit-learn, time-series modelling, statistical analysis  
+**Currently learning:** dbt, AWS, PySpark, Databricks
 
 ## Certifications
 
-[![Data Science Application — WorldQuant University](https://images.credly.com/images/5c9ac371-96a8-46a8-a48f-aaa4230cd360/linkedin_thumb_blob)](https://www.credly.com/badges/ffdeb191-2dde-4420-a5d3-ac11a2a27c97/public_url)
-[![Data Science Modeling — WorldQuant University](https://images.credly.com/images/f70980b1-9016-4301-9636-dd74c183ac92/linkedin_thumb_blob)](https://www.credly.com/badges/0636c3a2-2c0e-44d0-abd5-05fd6ba0f7fa/public_url)
+- [Data Science Application — WorldQuant University](https://www.credly.com/badges/ffdeb191-2dde-4420-a5d3-ac11a2a27c97/public_url)
+- [Data Science Modeling — WorldQuant University](https://www.credly.com/badges/0636c3a2-2c0e-44d0-abd5-05fd6ba0f7fa/public_url)
 
-- **Data Science Application** — WorldQuant University
-- **Data Science Modeling** — WorldQuant University
-
-## Current focus
-
-I am building practical projects that connect ingestion, storage, transformation, testing, orchestration, and analytics. My immediate learning priorities are dbt, AWS, PySpark/Databricks, cloud deployment, and pipeline reliability.
-
-I am continuing the WorldQuant University Applied Deep Learning Lab while applying for data roles. My analytical chemistry experience remains an important part of my profile: it developed my attention to measurement quality, investigation, documentation, and evidence-based decision-making.
+I’m focused on building reliable data workflows that connect **ingestion, storage, transformation, testing, orchestration, and analytics**—with the same attention to evidence and data quality that I developed in pharmaceutical chemistry.
