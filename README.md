@@ -32,5 +32,6 @@ I’m open to junior, graduate, and associate opportunities in:
 
 - [Data Science Application — WorldQuant University](https://www.credly.com/badges/ffdeb191-2dde-4420-a5d3-ac11a2a27c97/public_url)
 - [Data Science Modeling — WorldQuant University](https://www.credly.com/badges/0636c3a2-2c0e-44d0-abd5-05fd6ba0f7fa/public_url)
+- [Deep Learning Fundamentals Lab – Introductory — WorldQuant University](https://www.credly.com/badges/eb42435e-1faa-4891-af37-cb994030311d/public_url)
 
 I’m focused on building reliable data workflows that connect **ingestion, storage, transformation, testing, orchestration, and analytics**—with the same attention to evidence and data quality that I developed in pharmaceutical chemistry.
